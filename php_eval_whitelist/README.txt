@@ -1,0 +1,1 @@
+PHP is dangerous, so we wrote a custom php extension to improve its security. We're also taking advantage of the open_basedir directive to prevent you from accessing the flag binary up the current folder. You can check the source of the page here. Can you execute the ./flag binary?
